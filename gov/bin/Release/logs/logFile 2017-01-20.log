@@ -1,0 +1,74 @@
+2017-01-20 16:53:47,497 [9] LogHelper INFO  平台版本：4.0.30319.42000
+2017-01-20 16:53:47,510 [9] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-01-20 16:53:47,511 [9] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-01-20 16:53:47,511 [9] LogHelper INFO  管理员身份：True
+2017-01-20 16:53:47,512 [9] LogHelper INFO  64位操作系统：True
+2017-01-20 16:53:47,512 [9] LogHelper INFO  64位方式运行：True
+2017-01-20 16:53:47,512 [9] LogHelper INFO  程序基路径：F:\gov\gov\bin\Release\
+2017-01-20 16:53:47,512 [9] LogHelper INFO  当前路径：F:\gov\gov\bin\Release
+2017-01-20 16:53:47,512 [9] LogHelper INFO  应用路径：F:\gov\gov\bin\Release\gov.exe
+2017-01-20 16:53:47,514 [9] LogHelper INFO  标题：gov
+2017-01-20 16:53:47,514 [9] LogHelper INFO  版本：1.0.0.0
+2017-01-20 16:53:52,482 [10] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
+2017-01-20 16:55:21,434 [8] LogHelper INFO  平台版本：4.0.30319.42000
+2017-01-20 16:55:21,446 [8] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-01-20 16:55:21,448 [8] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-01-20 16:55:21,448 [8] LogHelper INFO  管理员身份：True
+2017-01-20 16:55:21,448 [8] LogHelper INFO  64位操作系统：True
+2017-01-20 16:55:21,448 [8] LogHelper INFO  64位方式运行：True
+2017-01-20 16:55:21,448 [8] LogHelper INFO  程序基路径：F:\gov\gov\bin\Release\
+2017-01-20 16:55:21,449 [8] LogHelper INFO  当前路径：F:\gov\gov\bin\Release
+2017-01-20 16:55:21,449 [8] LogHelper INFO  应用路径：F:\gov\gov\bin\Release\gov.exe
+2017-01-20 16:55:21,451 [8] LogHelper INFO  标题：gov
+2017-01-20 16:55:21,451 [8] LogHelper INFO  版本：1.0.0.0
+2017-01-20 16:55:24,763 [8] IeStarter DEBUG 启动浏览器路径：C:\Program Files (x86)\Internet Explorer\iexplore.exe
+2017-01-20 16:55:24,765 [8] IeStarter DEBUG 浏览器启动参数：-nomerge -private -nohome
+2017-01-20 16:55:24,767 [8] IeStarter DEBUG 准备启动Ie浏览器
+2017-01-20 16:55:24,768 [8] IeStarter DEBUG 准备创建Ie浏览器快照
+2017-01-20 16:55:24,795 [8] IeStarter DEBUG 开始启动Ie浏览器：C:\Program Files (x86)\Internet Explorer\iexplore.exe # -nomerge -private -nohome
+2017-01-20 16:55:24,819 [8] IeStarter DEBUG 查询启动Ie浏览器
+2017-01-20 16:55:24,820 [8] IeStarter DEBUG 获取启动浏览器句柄完成
+2017-01-20 16:55:25,450 [8] Browser INFO  准备访问企业信用首页
+2017-01-20 16:55:25,482 [4] ShDocVwIeWebControl DEBUG 主窗体 # 6688098 # 准备导航至：http://www.gsxt.gov.cn/
+2017-01-20 16:55:25,791 [4] ShDocVwIeWebControl INFO  文件下载完成：活动文档
+2017-01-20 16:55:25,852 [4] ShDocVwIeWebControl DEBUG 主窗体 # 6688098 # 已经导航至：http://www.gsxt.gov.cn/index.html
+2017-01-20 16:55:26,155 [4] ShDocVwIeWebControl DEBUG 主窗体 # 6688098 # 文档载入完成：http://www.gsxt.gov.cn/index.html
+2017-01-20 16:55:26,408 [9] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
+2017-01-20 16:55:28,645 [8] Browser INFO  等待验证框处理完成
+2017-01-20 16:55:32,563 [8] Browser INFO  自动处理验证框，位移： 128px
+2017-01-20 16:55:34,074 [8] Browser INFO  准备开始滑动验证：9 个滑动点
+2017-01-20 16:55:35,015 [8] Browser INFO  滑动点：0, -1, 39.1814835691738
+2017-01-20 16:55:35,088 [8] Browser INFO  滑动点：2, 1, 33.2734047729864
+2017-01-20 16:55:35,150 [8] Browser INFO  滑动点：4, -1, 43.3505980266959
+2017-01-20 16:55:35,229 [8] Browser INFO  滑动点：7, -1, 16.734411011792
+2017-01-20 16:55:35,286 [8] Browser INFO  滑动点：14, -2, 19.7764207654523
+2017-01-20 16:55:35,338 [8] Browser INFO  滑动点：30, -2, 18.5752213041183
+2017-01-20 16:55:35,389 [8] Browser INFO  滑动点：61, 1, 14.0238299984596
+2017-01-20 16:55:35,432 [8] Browser INFO  滑动点：121, 1, 22.9766067922938
+2017-01-20 16:55:35,490 [8] Browser INFO  滑动点：128, -1, 17.848191097308
+2017-01-20 16:55:44,955 [8] Browser INFO  自动处理验证框，位移： 145px
+2017-01-20 16:55:46,456 [8] Browser INFO  准备开始滑动验证：8 个滑动点
+2017-01-20 16:55:46,531 [8] Browser INFO  滑动点：0, 0, 22.2381270920104
+2017-01-20 16:55:46,588 [8] Browser INFO  滑动点：4, 0, 15.4277437578085
+2017-01-20 16:55:46,634 [8] Browser INFO  滑动点：6, 0, 17.9385047629189
+2017-01-20 16:55:46,684 [8] Browser INFO  滑动点：13, -2, 11.9763954551781
+2017-01-20 16:55:46,730 [8] Browser INFO  滑动点：27, 0, 35.857233379901
+2017-01-20 16:55:46,804 [8] Browser INFO  滑动点：51, 1, 18.0872957073559
+2017-01-20 16:55:46,852 [8] Browser INFO  滑动点：104, -1, 26.2989632674954
+2017-01-20 16:55:46,910 [8] Browser INFO  滑动点：145, -1, 40.4578926928611
+2017-01-20 16:55:48,011 [4] ShDocVwIeWebControl DEBUG 主窗体 # 6688098 # 准备导航至：http://www.gsxt.gov.cn/corp-query-search-1.html
+2017-01-20 16:55:48,420 [8] Browser INFO  验证框已隐藏
+2017-01-20 16:55:49,194 [4] ShDocVwIeWebControl DEBUG 主窗体 # 6688098 # 浏览器被关闭
+2017-01-20 16:55:49,420 [8] Browser INFO  等待跳转至搜索页
+2017-01-20 16:55:49,622 [8] Browser ERROR 检测文件载入状态出错，未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 X.CommLib.Net.IeWebControls.IeWebCtrlOperator.GetHtmlDocumentReadyState(IHTMLDocument2 htmlDocument2, Action`2 logAction)
+2017-01-20 16:55:49,830 [8] Browser ERROR 检测文件载入状态出错，未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 X.CommLib.Net.IeWebControls.IeWebCtrlOperator.GetHtmlDocumentReadyState(IHTMLDocument2 htmlDocument2, Action`2 logAction)
+2017-01-20 16:55:50,032 [8] Browser ERROR 检测文件载入状态出错，未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 X.CommLib.Net.IeWebControls.IeWebCtrlOperator.GetHtmlDocumentReadyState(IHTMLDocument2 htmlDocument2, Action`2 logAction)
+2017-01-20 16:55:50,233 [8] Browser ERROR 检测文件载入状态出错，未将对象引用设置到对象的实例。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 X.CommLib.Net.IeWebControls.IeWebCtrlOperator.GetHtmlDocumentReadyState(IHTMLDocument2 htmlDocument2, Action`2 logAction)

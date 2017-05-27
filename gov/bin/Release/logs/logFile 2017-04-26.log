@@ -1,0 +1,184 @@
+2017-04-26 10:39:28,761 [10] LogHelper INFO  平台版本：4.0.30319.42000
+2017-04-26 10:39:28,775 [10] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-04-26 10:39:28,776 [10] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-04-26 10:39:28,777 [10] LogHelper INFO  管理员身份：True
+2017-04-26 10:39:28,777 [10] LogHelper INFO  64位操作系统：True
+2017-04-26 10:39:28,777 [10] LogHelper INFO  64位方式运行：True
+2017-04-26 10:39:28,777 [10] LogHelper INFO  程序基路径：F:\gov\gov\bin\Release\
+2017-04-26 10:39:28,777 [10] LogHelper INFO  当前路径：F:\gov\gov\bin\Release
+2017-04-26 10:39:28,778 [10] LogHelper INFO  应用路径：F:\gov\gov\bin\Release\gov.exe
+2017-04-26 10:39:28,779 [10] LogHelper INFO  标题：gov
+2017-04-26 10:39:28,780 [10] LogHelper INFO  版本：1.0.0.0
+2017-04-26 10:50:49,079 [9] LogHelper INFO  平台版本：4.0.30319.42000
+2017-04-26 10:50:49,093 [9] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-04-26 10:50:49,095 [9] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-04-26 10:50:49,095 [9] LogHelper INFO  管理员身份：True
+2017-04-26 10:50:49,095 [9] LogHelper INFO  64位操作系统：True
+2017-04-26 10:50:49,095 [9] LogHelper INFO  64位方式运行：True
+2017-04-26 10:50:49,095 [9] LogHelper INFO  程序基路径：F:\gov\gov\bin\Release\
+2017-04-26 10:50:49,095 [9] LogHelper INFO  当前路径：F:\gov\gov\bin\Release
+2017-04-26 10:50:49,096 [9] LogHelper INFO  应用路径：F:\gov\gov\bin\Release\gov.exe
+2017-04-26 10:50:49,098 [9] LogHelper INFO  标题：gov
+2017-04-26 10:50:49,098 [9] LogHelper INFO  版本：1.0.0.0
+2017-04-26 10:50:54,061 [10] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
+2017-04-26 10:54:28,946 [9] LogHelper INFO  平台版本：4.0.30319.42000
+2017-04-26 10:54:28,959 [9] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-04-26 10:54:28,961 [9] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-04-26 10:54:28,961 [9] LogHelper INFO  管理员身份：True
+2017-04-26 10:54:28,961 [9] LogHelper INFO  64位操作系统：True
+2017-04-26 10:54:28,961 [9] LogHelper INFO  64位方式运行：True
+2017-04-26 10:54:28,961 [9] LogHelper INFO  程序基路径：F:\gov\gov\bin\Release\
+2017-04-26 10:54:28,962 [9] LogHelper INFO  当前路径：F:\gov\gov\bin\Release
+2017-04-26 10:54:28,962 [9] LogHelper INFO  应用路径：F:\gov\gov\bin\Release\gov.exe
+2017-04-26 10:54:28,964 [9] LogHelper INFO  标题：gov
+2017-04-26 10:54:28,964 [9] LogHelper INFO  版本：1.0.0.0
+2017-04-26 10:54:32,319 [9] IeStarter DEBUG 启动浏览器路径：C:\Program Files (x86)\Internet Explorer\iexplore.exe
+2017-04-26 10:54:32,322 [9] IeStarter DEBUG 浏览器启动参数：-nomerge -private -nohome
+2017-04-26 10:54:32,324 [9] IeStarter DEBUG 准备启动Ie浏览器
+2017-04-26 10:54:32,326 [9] IeStarter DEBUG 准备创建Ie浏览器快照
+2017-04-26 10:54:32,393 [9] IeStarter DEBUG 开始启动Ie浏览器：C:\Program Files (x86)\Internet Explorer\iexplore.exe # -nomerge -private -nohome
+2017-04-26 10:54:32,440 [9] IeStarter DEBUG 查询启动Ie浏览器
+2017-04-26 10:54:32,441 [9] IeStarter DEBUG 获取启动浏览器句柄完成
+2017-04-26 10:54:33,147 [9] Browser INFO  准备访问企业信用首页
+2017-04-26 10:54:33,185 [16] ShDocVwIeWebControl DEBUG 主窗体 # 266046 # 准备导航至：http://www.gsxt.gov.cn/
+2017-04-26 10:54:33,914 [10] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
+2017-04-26 10:54:48,521 [3] ShDocVwIeWebControl INFO  文件下载完成：活动文档
+2017-04-26 10:54:48,573 [14] ShDocVwIeWebControl DEBUG 主窗体 # 266046 # 已经导航至：http://www.gsxt.gov.cn/index.html
+2017-04-26 10:54:49,142 [16] ShDocVwIeWebControl DEBUG 主窗体 # 266046 # 文档载入完成：http://www.gsxt.gov.cn/index.html
+2017-04-26 10:54:51,641 [9] Browser INFO  等待验证框处理完成
+2017-04-26 10:54:53,099 [9] Browser INFO  自动处理验证框，位移： 77px
+2017-04-26 10:54:54,609 [9] Browser INFO  准备开始滑动验证：7 个滑动点
+2017-04-26 10:54:54,658 [9] Browser INFO  滑动点：0, -1, 10.4957454095109
+2017-04-26 10:54:54,696 [9] Browser INFO  滑动点：4, -1, 34.8655394021727
+2017-04-26 10:54:54,789 [9] Browser INFO  滑动点：7, -1, 18.6456437449184
+2017-04-26 10:54:54,841 [9] Browser INFO  滑动点：14, 0, 39.3983189526006
+2017-04-26 10:54:54,911 [9] Browser INFO  滑动点：26, 1, 33.4007476006638
+2017-04-26 10:54:54,970 [9] Browser INFO  滑动点：52, -1, 38.7359612755179
+2017-04-26 10:54:55,046 [9] Browser INFO  滑动点：77, 0, 33.5357576159461
+2017-04-26 10:54:56,170 [14] ShDocVwIeWebControl DEBUG 主窗体 # 266046 # 准备导航至：http://www.gsxt.gov.cn/corp-query-search-1.html
+2017-04-26 10:54:56,587 [14] ShDocVwIeWebControl DEBUG 主窗体 # 266046 # 已经导航至：http://www.gsxt.gov.cn/corp-query-search-1.html
+2017-04-26 10:54:56,622 [9] Browser INFO  验证框已关闭
+2017-04-26 10:54:57,184 [14] ShDocVwIeWebControl DEBUG 主窗体 # 266046 # 文档载入完成：http://www.gsxt.gov.cn/corp-query-search-1.html
+2017-04-26 10:54:57,622 [9] Browser INFO  等待跳转至搜索页
+2017-04-26 10:54:59,383 [9] Browser INFO  准备访问企业信用首页
+2017-04-26 10:54:59,396 [16] ShDocVwIeWebControl DEBUG 主窗体 # 266046 # 准备导航至：http://www.gsxt.gov.cn/
+2017-04-26 10:54:59,640 [14] ShDocVwIeWebControl DEBUG 主窗体 # 266046 # 已经导航至：http://www.gsxt.gov.cn/index.html
+2017-04-26 10:54:59,812 [3] ShDocVwIeWebControl DEBUG 主窗体 # 266046 # 文档载入完成：http://www.gsxt.gov.cn/index.html
+2017-04-26 10:55:02,317 [9] Browser INFO  等待验证框处理完成
+2017-04-26 10:55:03,821 [9] Browser INFO  验证框滑动位移小于等于 0，准备再次尝试
+2017-04-26 10:55:04,115 [9] Browser INFO  刷新验证框
+2017-04-26 10:55:09,457 [9] Browser INFO  自动处理验证框，位移： 60px
+2017-04-26 10:55:10,958 [9] Browser INFO  准备开始滑动验证：7 个滑动点
+2017-04-26 10:55:11,016 [9] Browser INFO  滑动点：0, 0, 14.5349046050268
+2017-04-26 10:55:11,066 [9] Browser INFO  滑动点：3, 1, 48.4799164154008
+2017-04-26 10:55:11,152 [9] Browser INFO  滑动点：4, 0, 20.1777085895546
+2017-04-26 10:55:11,206 [9] Browser INFO  滑动点：9, -1, 31.6943715613775
+2017-04-26 10:55:11,268 [9] Browser INFO  滑动点：20, 1, 19.5366324342492
+2017-04-26 10:55:11,323 [9] Browser INFO  滑动点：40, 1, 16.7534719252742
+2017-04-26 10:55:11,371 [9] Browser INFO  滑动点：60, 1, 16.4856136620443
+2017-04-26 10:55:12,484 [14] ShDocVwIeWebControl DEBUG 主窗体 # 266046 # 准备导航至：http://www.gsxt.gov.cn/corp-query-search-1.html
+2017-04-26 10:55:12,808 [14] ShDocVwIeWebControl DEBUG 主窗体 # 266046 # 已经导航至：http://www.gsxt.gov.cn/corp-query-search-1.html
+2017-04-26 10:55:13,142 [9] Browser INFO  验证框已关闭
+2017-04-26 10:55:13,172 [14] ShDocVwIeWebControl DEBUG 主窗体 # 266046 # 文档载入完成：http://www.gsxt.gov.cn/corp-query-search-1.html
+2017-04-26 10:55:14,143 [9] Browser INFO  等待跳转至搜索页
+2017-04-26 10:55:15,286 [9] Browser INFO  准备访问企业信用首页
+2017-04-26 10:55:15,296 [16] ShDocVwIeWebControl DEBUG 主窗体 # 266046 # 准备导航至：http://www.gsxt.gov.cn/
+2017-04-26 10:55:15,550 [16] ShDocVwIeWebControl DEBUG 主窗体 # 266046 # 已经导航至：http://www.gsxt.gov.cn/index.html
+2017-04-26 10:55:16,056 [16] ShDocVwIeWebControl DEBUG 主窗体 # 266046 # 文档载入完成：http://www.gsxt.gov.cn/index.html
+2017-04-26 10:55:18,602 [9] Browser INFO  等待验证框处理完成
+2017-04-26 10:55:19,970 [9] Browser INFO  自动处理验证框，位移： 72px
+2017-04-26 10:55:21,471 [9] Browser INFO  准备开始滑动验证：8 个滑动点
+2017-04-26 10:55:21,510 [9] Browser INFO  滑动点：0, 1, 26.4054629841845
+2017-04-26 10:55:21,561 [9] Browser INFO  滑动点：2, -2, 23.3820617633788
+2017-04-26 10:55:21,610 [9] Browser INFO  滑动点：3, 1, 28.6375325446192
+2017-04-26 10:55:21,666 [9] Browser INFO  滑动点：7, 0, 20.5544237469111
+2017-04-26 10:55:21,707 [9] Browser INFO  滑动点：13, 0, 38.9028829098227
+2017-04-26 10:55:21,776 [9] Browser INFO  滑动点：26, 0, 19.7783740282889
+2017-04-26 10:55:21,824 [9] Browser INFO  滑动点：52, 1, 41.0774702537234
+2017-04-26 10:55:21,898 [9] Browser INFO  滑动点：72, 0, 30.426016794716
+2017-04-26 10:55:31,444 [9] Browser INFO  自动处理验证框，位移： 79px
+2017-04-26 10:55:32,945 [9] Browser INFO  准备开始滑动验证：8 个滑动点
+2017-04-26 10:55:32,980 [9] Browser INFO  滑动点：0, -2, 39.9202344892175
+2017-04-26 10:55:33,043 [9] Browser INFO  滑动点：1, 0, 12.8017477890485
+2017-04-26 10:55:33,084 [9] Browser INFO  滑动点：2, -1, 41.1720395792145
+2017-04-26 10:55:33,162 [9] Browser INFO  滑动点：7, 1, 34.6437588262575
+2017-04-26 10:55:33,224 [9] Browser INFO  滑动点：14, 1, 48.7795760104338
+2017-04-26 10:55:33,303 [9] Browser INFO  滑动点：25, -1, 13.262304367154
+2017-04-26 10:55:33,350 [9] Browser INFO  滑动点：50, -2, 28.7247357790939
+2017-04-26 10:55:33,415 [9] Browser INFO  滑动点：79, 1, 31.648981637158
+2017-04-26 10:55:40,324 [9] Browser INFO  自动处理验证框，位移： 70px
+2017-04-26 10:55:41,824 [9] Browser INFO  准备开始滑动验证：7 个滑动点
+2017-04-26 10:55:41,882 [9] Browser INFO  滑动点：0, -1, 43.0541389216921
+2017-04-26 10:55:41,963 [9] Browser INFO  滑动点：2, -1, 37.2496675640576
+2017-04-26 10:55:42,025 [9] Browser INFO  滑动点：6, -1, 40.2804327897171
+2017-04-26 10:55:42,093 [9] Browser INFO  滑动点：12, 0, 34.9579370510569
+2017-04-26 10:55:42,156 [9] Browser INFO  滑动点：24, 0, 13.1737461700913
+2017-04-26 10:55:42,205 [9] Browser INFO  滑动点：45, 0, 46.5763727932127
+2017-04-26 10:55:42,288 [9] Browser INFO  滑动点：70, -2, 46.2471223605085
+2017-04-26 10:55:43,420 [16] ShDocVwIeWebControl DEBUG 主窗体 # 266046 # 准备导航至：http://www.gsxt.gov.cn/corp-query-search-1.html
+2017-04-26 10:55:43,773 [16] ShDocVwIeWebControl DEBUG 主窗体 # 266046 # 已经导航至：http://www.gsxt.gov.cn/corp-query-search-1.html
+2017-04-26 10:55:43,843 [9] Browser INFO  验证框已关闭
+2017-04-26 10:55:44,718 [14] ShDocVwIeWebControl DEBUG 主窗体 # 266046 # 文档载入完成：http://www.gsxt.gov.cn/corp-query-search-1.html
+2017-04-26 10:55:44,843 [9] Browser INFO  等待跳转至搜索页
+2017-04-26 10:55:47,288 [9] Browser INFO  准备访问企业信用首页
+2017-04-26 10:55:47,309 [16] ShDocVwIeWebControl DEBUG 主窗体 # 266046 # 准备导航至：http://www.gsxt.gov.cn/
+2017-04-26 10:55:47,543 [16] ShDocVwIeWebControl DEBUG 主窗体 # 266046 # 已经导航至：http://www.gsxt.gov.cn/index.html
+2017-04-26 10:55:48,351 [3] ShDocVwIeWebControl DEBUG 主窗体 # 266046 # 文档载入完成：http://www.gsxt.gov.cn/index.html
+2017-04-26 10:56:21,917 [9] Browser INFO  等待验证框处理完成
+2017-04-26 10:56:22,925 [9] Browser ERROR 工作时发生错误，参数无效。
+System.ArgumentException: 参数无效。
+   在 System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   在 X.CommLib.Image.ImageHelper.CapturImage(IntPtr winHandle, Rectangle rectangle)
+   在 GsxtWebCore.Browser.GetGtBoxImageCore(IeWebControl webControl) 位置 D:\Codes\Other\GsxtWebCore\GsxtWebCore\Browser.cs:行号 266
+   在 GsxtWebCore.Browser.ProcessGtBox(IeWebControl webControl, Int32 tryNumber) 位置 D:\Codes\Other\GsxtWebCore\GsxtWebCore\Browser.cs:行号 342
+   在 GsxtWebCore.Browser.ProcessGtBoxCore(IeWebControl webControl) 位置 D:\Codes\Other\GsxtWebCore\GsxtWebCore\Browser.cs:行号 387
+   在 GsxtWebCore.Browser.WaitGtBoxHidden(IeWebControl webControl) 位置 D:\Codes\Other\GsxtWebCore\GsxtWebCore\Browser.cs:行号 589
+   在 GsxtWebCore.Browser.SearchCompanyMainContentCore(String companyName, Func`3 func) 位置 D:\Codes\Other\GsxtWebCore\GsxtWebCore\Browser.cs:行号 525
+2017-04-26 10:56:23,090 [9] Browser INFO  准备访问企业信用首页
+2017-04-26 10:56:23,097 [16] ShDocVwIeWebControl DEBUG 主窗体 # 266046 # 准备导航至：http://www.gsxt.gov.cn/
+2017-04-26 10:56:23,289 [14] ShDocVwIeWebControl DEBUG 主窗体 # 266046 # 已经导航至：http://www.gsxt.gov.cn/index.html
+2017-04-26 10:56:23,590 [16] ShDocVwIeWebControl DEBUG 主窗体 # 266046 # 文档载入完成：http://www.gsxt.gov.cn/index.html
+2017-04-26 10:56:26,072 [9] Browser INFO  等待验证框处理完成
+2017-04-26 10:56:30,049 [9] Browser INFO  自动处理验证框，位移： 122px
+2017-04-26 10:56:31,550 [9] Browser INFO  准备开始滑动验证：9 个滑动点
+2017-04-26 10:56:31,594 [9] Browser INFO  滑动点：0, 1, 38.7905679218427
+2017-04-26 10:56:31,657 [9] Browser INFO  滑动点：1, -2, 17.9106243177832
+2017-04-26 10:56:31,705 [9] Browser INFO  滑动点：3, -1, 10.0186227634636
+2017-04-26 10:56:31,746 [9] Browser INFO  滑动点：7, 1, 36.2242437089906
+2017-04-26 10:56:31,807 [9] Browser INFO  滑动点：14, 0, 34.4226168209792
+2017-04-26 10:56:31,871 [9] Browser INFO  滑动点：28, 1, 46.2519845721554
+2017-04-26 10:56:31,951 [9] Browser INFO  滑动点：56, 1, 16.3628471672362
+2017-04-26 10:56:32,003 [9] Browser INFO  滑动点：111, -1, 13.706806974349
+2017-04-26 10:56:32,051 [9] Browser INFO  滑动点：122, 0, 35.9344999612935
+2017-04-26 10:56:41,649 [9] Browser INFO  自动处理验证框，位移： 169px
+2017-04-26 10:56:43,151 [9] Browser INFO  准备开始滑动验证：9 个滑动点
+2017-04-26 10:56:43,247 [9] Browser INFO  滑动点：0, 0, 27.1863426348131
+2017-04-26 10:56:43,296 [9] Browser INFO  滑动点：1, 0, 33.709882620587
+2017-04-26 10:56:43,356 [9] Browser INFO  滑动点：5, -2, 12.0531616742039
+2017-04-26 10:56:43,402 [9] Browser INFO  滑动点：9, -2, 45.4737563782715
+2017-04-26 10:56:43,483 [9] Browser INFO  滑动点：17, 1, 18.5390285442299
+2017-04-26 10:56:43,542 [9] Browser INFO  滑动点：34, 0, 10.5610705169668
+2017-04-26 10:56:43,582 [9] Browser INFO  滑动点：70, 1, 27.8456494481515
+2017-04-26 10:56:43,633 [9] Browser INFO  滑动点：139, -2, 39.3530149335754
+2017-04-26 10:56:43,710 [9] Browser INFO  滑动点：169, -1, 18.0271521061785
+2017-04-26 10:56:44,815 [3] ShDocVwIeWebControl DEBUG 主窗体 # 266046 # 准备导航至：http://www.gsxt.gov.cn/corp-query-search-1.html
+2017-04-26 10:56:45,166 [16] ShDocVwIeWebControl DEBUG 主窗体 # 266046 # 已经导航至：http://www.gsxt.gov.cn/corp-query-search-1.html
+2017-04-26 10:56:45,499 [9] Browser INFO  验证框已关闭
+2017-04-26 10:56:45,638 [16] ShDocVwIeWebControl DEBUG 主窗体 # 266046 # 文档载入完成：http://www.gsxt.gov.cn/corp-query-search-1.html
+2017-04-26 10:56:46,500 [9] Browser INFO  等待跳转至搜索页
+2017-04-26 10:56:47,602 [9] Browser INFO  准备访问企业信用首页
+2017-04-26 10:56:47,609 [16] ShDocVwIeWebControl DEBUG 主窗体 # 266046 # 准备导航至：http://www.gsxt.gov.cn/
+2017-04-26 10:56:47,840 [16] ShDocVwIeWebControl DEBUG 主窗体 # 266046 # 已经导航至：http://www.gsxt.gov.cn/index.html
+2017-04-26 10:56:47,988 [14] ShDocVwIeWebControl DEBUG 主窗体 # 266046 # 浏览器被关闭
+2017-04-26 14:44:18,310 [9] LogHelper INFO  平台版本：4.0.30319.42000
+2017-04-26 14:44:18,336 [9] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-04-26 14:44:18,338 [9] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-04-26 14:44:18,339 [9] LogHelper INFO  管理员身份：True
+2017-04-26 14:44:18,339 [9] LogHelper INFO  64位操作系统：True
+2017-04-26 14:44:18,339 [9] LogHelper INFO  64位方式运行：True
+2017-04-26 14:44:18,339 [9] LogHelper INFO  程序基路径：F:\gov\gov\bin\Release\
+2017-04-26 14:44:18,339 [9] LogHelper INFO  当前路径：F:\gov\gov\bin\Release
+2017-04-26 14:44:18,340 [9] LogHelper INFO  应用路径：F:\gov\gov\bin\Release\gov.exe
+2017-04-26 14:44:18,341 [9] LogHelper INFO  标题：gov
+2017-04-26 14:44:18,342 [9] LogHelper INFO  版本：1.0.0.0
+2017-04-26 14:44:23,297 [10] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator

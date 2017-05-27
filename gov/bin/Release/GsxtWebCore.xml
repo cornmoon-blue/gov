@@ -1,0 +1,302 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GsxtWebCore</name>
+    </assembly>
+    <members>
+        <member name="T:GsxtWebCore.Browser">
+            <summary>
+                浏览器核心
+            </summary>
+            <seealso cref="T:X.CommLib.Logs.NormalLogginger" />
+        </member>
+        <member name="F:GsxtWebCore.Browser.lastWebControl">
+            <summary>
+                最后一次使用的浏览器
+            </summary>
+        </member>
+        <member name="P:GsxtWebCore.Browser.DragTraceCreator">
+            <summary>
+                滑动轨迹生成器
+            </summary>
+            <value>
+                The drag trace creator.
+            </value>
+        </member>
+        <member name="P:GsxtWebCore.Browser.GtCaptchaParser">
+            <summary>
+                验证码处理器
+            </summary>
+            <value>
+                The gt captcha parser.
+            </value>
+        </member>
+        <member name="M:GsxtWebCore.Browser.SearchCompanyMainContent(System.String)">
+            <summary>
+                搜索公司信息的首页内容
+            </summary>
+            <param name="companyName">Name of the company.</param>
+            <returns></returns>
+        </member>
+        <member name="M:GsxtWebCore.Browser.SearchCompanyUrl(System.String)">
+            <summary>
+                搜索公司链接
+            </summary>
+            <param name="companyName">Name of the company.</param>
+            <returns></returns>
+        </member>
+        <member name="M:GsxtWebCore.Browser.Test">
+            <summary>
+                进行测试
+            </summary>
+            <exception cref="T:System.NotSupportedException">无法定义详细信息</exception>
+        </member>
+        <member name="M:GsxtWebCore.Browser.ClickGtBoxSlidingShoe(X.CommLib.Net.IeWebControls.IeWebControl)">
+            <summary>
+                点击滑动块
+            </summary>
+            <param name="webControl">The web control.</param>
+        </member>
+        <member name="M:GsxtWebCore.Browser.DragSlidingShoe(X.CommLib.Net.IeWebControls.IeWebControl,System.Collections.Generic.IList{GsxtWebCore.TracePoint})">
+            <summary>
+                进行滑动
+            </summary>
+            <param name="webControl">The web control.</param>
+            <param name="tracePoints">The trace points.</param>
+        </member>
+        <member name="M:GsxtWebCore.Browser.FindCompanyUrl(X.CommLib.Net.IeWebControls.IIeWebControl,System.String)">
+            <summary>
+                从结果中找到公司对应的链接信息
+            </summary>
+            <param name="webControl">The web control.</param>
+            <param name="companyName">Name of the company.</param>
+            <returns></returns>
+        </member>
+        <member name="M:GsxtWebCore.Browser.FindGtBoxElement(X.CommLib.Net.IeWebControls.IIeWebControl)">
+            <summary>
+                查找验证框
+            </summary>
+            <param name="webControl">The web control.</param>
+            <returns></returns>
+        </member>
+        <member name="M:GsxtWebCore.Browser.GetCompanyMainContent(X.CommLib.Net.IeWebControls.IeWebControl,System.String)">
+            <summary>
+                获取公司的首页地址
+            </summary>
+            <param name="webControl">The web control.</param>
+            <param name="url">The URL.</param>
+            <returns></returns>
+        </member>
+        <member name="M:GsxtWebCore.Browser.GetGtBoxImageCore(X.CommLib.Net.IeWebControls.IeWebControl)">
+            <summary>
+                获取验证码图像.
+            </summary>
+            <param name="webControl">The web control.</param>
+            <returns></returns>
+            <exception cref="T:System.NotSupportedException">找不到验证码图像位置</exception>
+        </member>
+        <member name="M:GsxtWebCore.Browser.GetGtBoxSlidingShoe(X.CommLib.Net.IeWebControls.IeWebControl,System.Drawing.Point@)">
+            <summary>
+                获得
+            </summary>
+            <param name="webControl">The web control.</param>
+            <param name="beginPoint">The begin point.</param>
+            <exception cref="T:System.NotSupportedException">定位验证码滑块失败</exception>
+        </member>
+        <member name="M:GsxtWebCore.Browser.GetWebControl">
+            <summary>
+                返回一个重用的浏览器，如果不存在，则新建一个
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GsxtWebCore.Browser.ProcessGtBox(X.CommLib.Net.IeWebControls.IeWebControl,System.Int32)">
+            <summary>
+                处理验证框
+            </summary>
+            <param name="webControl">The web control.</param>
+            <param name="tryNumber">内部重试次数.</param>
+            <returns>
+                true 尝试自动处理验证框
+            </returns>
+            <exception cref="T:System.NotSupportedException"></exception>
+        </member>
+        <member name="M:GsxtWebCore.Browser.ProcessGtBoxCore(X.CommLib.Net.IeWebControls.IeWebControl)">
+            <summary>
+                处理验证码拖动框
+            </summary>
+            <param name="webControl">The web control.</param>
+            <returns></returns>
+            <exception cref="T:System.TimeoutException">等待验证完成超时</exception>
+        </member>
+        <member name="M:GsxtWebCore.Browser.RefreshGtBox(X.CommLib.Net.IeWebControls.IeWebControl)">
+            <summary>
+                进行刷新
+            </summary>
+            <param name="webControl">The web control.</param>
+        </member>
+        <member name="M:GsxtWebCore.Browser.SaveDebugImage(System.Drawing.Image,System.String,System.String)">
+            <summary>
+                Saves the debug image.
+            </summary>
+            <param name="orgImage">The org image.</param>
+            <param name="imageName">Name of the image.</param>
+            <param name="flag">The flag.</param>
+        </member>
+        <member name="M:GsxtWebCore.Browser.SearchCompany(X.CommLib.Net.IeWebControls.IIeWebControl,System.String)">
+            <summary>
+                搜索公司， 一直到验证通过，
+            </summary>
+            <param name="webControl">The web control.</param>
+            <param name="companyName">Name of the company.</param>
+        </member>
+        <member name="M:GsxtWebCore.Browser.SearchCompanyMainContentCore(System.String,System.Func{X.CommLib.Net.IeWebControls.IeWebControl,System.String,System.String})">
+            <summary>
+                搜索的核心函数
+            </summary>
+            <param name="companyName">Name of the company.</param>
+            <param name="func">The function.</param>
+            <returns></returns>
+            <exception cref="T:System.ArgumentException">没有指定搜索公司名</exception>
+        </member>
+        <member name="M:GsxtWebCore.Browser.TryFindGtBoxElement(X.CommLib.Net.IeWebControls.IeWebControl)">
+            <summary>
+                在一定的时候内找到输入框
+            </summary>
+            <param name="webControl">The web control.</param>
+            <returns></returns>
+        </member>
+        <member name="M:GsxtWebCore.Browser.WaitGtBoxHidden(X.CommLib.Net.IeWebControls.IeWebControl)">
+            <summary>
+                等待验证框消失
+            </summary>
+            <param name="webControl">The web control.</param>
+            <exception cref="T:System.NotSupportedException">没有找到验证框</exception>
+        </member>
+        <member name="M:GsxtWebCore.Browser.WaitGtBoxInfoTextHide(X.CommLib.Net.IeWebControls.IeWebControl)">
+            <summary>
+                等待 Gt 验证框中的提示信息消失
+            </summary>
+            <param name="webControl">The web control.</param>
+        </member>
+        <member name="M:GsxtWebCore.Browser.WaitSearchCompletPage(X.CommLib.Net.IeWebControls.IeWebControl)">
+            <summary>
+                等待搜索页面完成
+            </summary>
+            <param name="webControl">The web control.</param>
+        </member>
+        <member name="T:GsxtWebCore.CompanyNotFoundException">
+            <summary>
+            公司名称找不到对应的信息
+            </summary>
+            <seealso cref="T:System.Exception" />
+        </member>
+        <member name="M:GsxtWebCore.CompanyNotFoundException.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:GsxtWebCore.CompanyNotFoundException"/> class.
+            </summary>
+        </member>
+        <member name="M:GsxtWebCore.CompanyNotFoundException.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:GsxtWebCore.CompanyNotFoundException"/> class.
+            </summary>
+            <param name="message">描述错误的消息。</param>
+        </member>
+        <member name="M:GsxtWebCore.CompanyNotFoundException.#ctor(System.String,System.Exception)">
+            <summary>
+            Initializes a new instance of the <see cref="T:GsxtWebCore.CompanyNotFoundException"/> class.
+            </summary>
+            <param name="message">The message.</param>
+            <param name="inner">The inner.</param>
+        </member>
+        <member name="M:GsxtWebCore.CompanyNotFoundException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)">
+            <summary>
+            Initializes a new instance of the <see cref="T:GsxtWebCore.CompanyNotFoundException"/> class.
+            </summary>
+            <param name="info"><see cref="T:System.Runtime.Serialization.SerializationInfo" />，它存有有关所引发异常的序列化的对象数据。</param>
+            <param name="context"><see cref="T:System.Runtime.Serialization.StreamingContext" />，它包含有关源或目标的上下文信息。</param>
+        </member>
+        <member name="P:GsxtWebCore.CompanyNotFoundException.CompanyName">
+            <summary>
+            公司名称
+            </summary>
+            <value>
+            The name of the company.
+            </value>
+        </member>
+        <member name="T:GsxtWebCore.DragTraceCreator">
+            <summary>
+            滑动轨迹生成器
+            </summary>
+            <seealso cref="T:GsxtWebCore.IDragTraceCreator" />
+        </member>
+        <member name="M:GsxtWebCore.DragTraceCreator.Count(System.Int32)">
+            <summary>
+                Counts the specified distance.
+            </summary>
+            <param name="distance">The distance.</param>
+            <returns></returns>
+        </member>
+        <member name="T:GsxtWebCore.IDragTraceCreator">
+            <summary>
+                滑动轨迹生成器
+            </summary>
+        </member>
+        <member name="M:GsxtWebCore.IDragTraceCreator.Count(System.Int32)">
+            <summary>
+                传入位移长度，返回滑动轨迹
+            </summary>
+            <param name="distance">The distance.</param>
+            <returns></returns>
+        </member>
+        <member name="T:GsxtWebCore.IGtCaptchaParser">
+            <summary>
+            验证码处理器
+            </summary>
+        </member>
+        <member name="M:GsxtWebCore.IGtCaptchaParser.CountDistance(System.Drawing.Image,System.Drawing.Image)">
+            <summary>
+            Counts the specified org image.
+            </summary>
+            <param name="orgImage">The org image.</param>
+            <param name="secondImage">The second image.</param>
+            <returns></returns>
+        </member>
+        <member name="T:GsxtWebCore.TracePoint">
+            <summary>
+                滑动轨迹中的一个点
+            </summary>
+        </member>
+        <member name="P:GsxtWebCore.TracePoint.SleepTime">
+            <summary>
+                相对于上一点的 sleep 时间（毫秒 )
+            </summary>
+            <value>
+                The sleep time.
+            </value>
+        </member>
+        <member name="P:GsxtWebCore.TracePoint.XOffset">
+            <summary>
+                x 的偏移量（相对于起始点）
+            </summary>
+            <value>
+                The x offset.
+            </value>
+        </member>
+        <member name="P:GsxtWebCore.TracePoint.YOffset">
+            <summary>
+                y 的偏移量（相对于起始点）
+            </summary>
+            <value>
+                The y offset.
+            </value>
+        </member>
+        <member name="M:GsxtWebCore.TracePoint.ToString">
+            <summary>
+            Returns a <see cref="T:System.String" /> that represents this instance.
+            </summary>
+            <returns>
+            A <see cref="T:System.String" /> that represents this instance.
+            </returns>
+        </member>
+    </members>
+</doc>

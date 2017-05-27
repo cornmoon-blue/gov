@@ -1,0 +1,53 @@
+d:\documents\visual studio 2015\Projects\gov\gov\bin\Debug\gov.exe.config
+d:\documents\visual studio 2015\Projects\gov\gov\obj\Debug\gov.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\gov\gov\bin\Debug\gov.exe
+d:\documents\visual studio 2015\Projects\gov\gov\bin\Debug\gov.pdb
+d:\documents\visual studio 2015\Projects\gov\gov\obj\Debug\gov.exe
+d:\documents\visual studio 2015\Projects\gov\gov\obj\Debug\gov.pdb
+d:\documents\visual studio 2015\Projects\gov\gov\bin\Debug\GsxtWebCore.dll
+d:\documents\visual studio 2015\Projects\gov\gov\bin\Debug\X.CommLib.dll
+d:\documents\visual studio 2015\Projects\gov\gov\bin\Debug\X.CommLib.Net.dll
+d:\documents\visual studio 2015\Projects\gov\gov\bin\Debug\X.CommLib.Ctrl.dll
+d:\documents\visual studio 2015\Projects\gov\gov\bin\Debug\log4net.dll
+d:\documents\visual studio 2015\Projects\gov\gov\bin\Debug\HtmlAgilityPack.dll
+d:\documents\visual studio 2015\Projects\gov\gov\bin\Debug\GsxtWebCore.pdb
+d:\documents\visual studio 2015\Projects\gov\gov\bin\Debug\GsxtWebCore.xml
+d:\documents\visual studio 2015\Projects\gov\gov\bin\Debug\X.CommLib.xml
+d:\documents\visual studio 2015\Projects\gov\gov\bin\Debug\Interop.SHDocVw.dll
+d:\documents\visual studio 2015\Projects\gov\gov\bin\Debug\ManagedWinapi.dll
+d:\documents\visual studio 2015\Projects\gov\gov\bin\Debug\Newtonsoft.Json.dll
+d:\documents\visual studio 2015\Projects\gov\gov\bin\Debug\WebDriver.dll
+d:\documents\visual studio 2015\Projects\gov\gov\bin\Debug\Newtonsoft.Json.xml
+d:\documents\visual studio 2015\Projects\gov\gov\bin\Debug\WebDriver.xml
+d:\documents\visual studio 2015\Projects\gov\gov\bin\Debug\MySql.Data.dll
+d:\documents\visual studio 2015\Projects\gov\gov\bin\Debug\Microsoft.mshtml.dll
+d:\documents\visual studio 2015\Projects\gov\gov\bin\Debug\X.CommLib.Image.dll
+F:\gov\gov\bin\Debug\gov.exe.config
+F:\gov\gov\obj\Debug\gov.exe
+F:\gov\gov\obj\Debug\gov.pdb
+F:\gov\gov\bin\Debug\gov.exe
+F:\gov\gov\bin\Debug\gov.pdb
+F:\gov\gov\bin\Debug\GsxtWebCore.dll
+F:\gov\gov\bin\Debug\ManagedWinapi.dll
+F:\gov\gov\bin\Debug\MySql.Data.dll
+F:\gov\gov\bin\Debug\Newtonsoft.Json.dll
+F:\gov\gov\bin\Debug\WebDriver.dll
+F:\gov\gov\bin\Debug\X.CommLib.Image.dll
+F:\gov\gov\bin\Debug\X.CommLib.Net.dll
+F:\gov\gov\bin\Debug\X.CommLib.Ctrl.dll
+F:\gov\gov\bin\Debug\log4net.dll
+F:\gov\gov\bin\Debug\HtmlAgilityPack.dll
+F:\gov\gov\bin\Debug\Microsoft.mshtml.dll
+F:\gov\gov\bin\Debug\Interop.SHDocVw.dll
+F:\gov\gov\bin\Debug\GsxtWebCore.pdb
+F:\gov\gov\bin\Debug\GsxtWebCore.xml
+F:\gov\gov\bin\Debug\Newtonsoft.Json.xml
+F:\gov\gov\bin\Debug\WebDriver.xml
+F:\gov\gov\obj\Debug\gov.csprojResolveAssemblyReference.cache
+F:\gov\gov\bin\Debug\Cassia.dll
+F:\gov\gov\bin\Debug\WebDriver.Support.dll
+F:\gov\gov\bin\Debug\X.CommLib.dll
+F:\gov\gov\bin\Debug\HtmlAgilityPack.pdb
+F:\gov\gov\bin\Debug\HtmlAgilityPack.xml
+F:\gov\gov\bin\Debug\log4net.xml
+F:\gov\gov\bin\Debug\WebDriver.Support.xml

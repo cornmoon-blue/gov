@@ -1,0 +1,110 @@
+2017-01-21 14:42:37,387 [9] LogHelper INFO  平台版本：4.0.30319.42000
+2017-01-21 14:42:37,402 [9] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-01-21 14:42:37,408 [9] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-01-21 14:42:37,409 [9] LogHelper INFO  管理员身份：True
+2017-01-21 14:42:37,409 [9] LogHelper INFO  64位操作系统：True
+2017-01-21 14:42:37,409 [9] LogHelper INFO  64位方式运行：True
+2017-01-21 14:42:37,409 [9] LogHelper INFO  程序基路径：F:\gov\gov\bin\Debug\
+2017-01-21 14:42:37,409 [9] LogHelper INFO  当前路径：F:\gov\gov\bin\Debug
+2017-01-21 14:42:37,410 [9] LogHelper INFO  应用路径：F:\gov\gov\bin\Debug\gov.exe
+2017-01-21 14:42:37,411 [9] LogHelper INFO  标题：gov
+2017-01-21 14:42:37,412 [9] LogHelper INFO  版本：1.0.0.0
+2017-01-21 14:42:39,863 [9] IeStarter DEBUG 启动浏览器路径：C:\Program Files (x86)\Internet Explorer\iexplore.exe
+2017-01-21 14:42:39,866 [9] IeStarter DEBUG 浏览器启动参数：-nomerge -private -nohome
+2017-01-21 14:42:39,868 [9] IeStarter DEBUG 准备启动Ie浏览器
+2017-01-21 14:42:39,870 [9] IeStarter DEBUG 准备创建Ie浏览器快照
+2017-01-21 14:42:39,915 [9] IeStarter DEBUG 开始启动Ie浏览器：C:\Program Files (x86)\Internet Explorer\iexplore.exe # -nomerge -private -nohome
+2017-01-21 14:42:39,943 [9] IeStarter DEBUG 查询启动Ie浏览器
+2017-01-21 14:42:39,944 [9] IeStarter DEBUG 获取启动浏览器句柄完成
+2017-01-21 14:42:42,356 [10] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
+2017-01-21 14:43:03,706 [10] LogHelper INFO  平台版本：4.0.30319.42000
+2017-01-21 14:43:03,719 [10] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-01-21 14:43:03,720 [10] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-01-21 14:43:03,721 [10] LogHelper INFO  管理员身份：True
+2017-01-21 14:43:03,721 [10] LogHelper INFO  64位操作系统：True
+2017-01-21 14:43:03,721 [10] LogHelper INFO  64位方式运行：True
+2017-01-21 14:43:03,721 [10] LogHelper INFO  程序基路径：F:\gov\gov\bin\Debug\
+2017-01-21 14:43:03,722 [10] LogHelper INFO  当前路径：F:\gov\gov\bin\Debug
+2017-01-21 14:43:03,722 [10] LogHelper INFO  应用路径：F:\gov\gov\bin\Debug\gov.exe
+2017-01-21 14:43:03,724 [10] LogHelper INFO  标题：gov
+2017-01-21 14:43:03,724 [10] LogHelper INFO  版本：1.0.0.0
+2017-01-21 14:43:06,271 [10] IeStarter DEBUG 启动浏览器路径：C:\Program Files (x86)\Internet Explorer\iexplore.exe
+2017-01-21 14:43:06,275 [10] IeStarter DEBUG 浏览器启动参数：-nomerge -private -nohome
+2017-01-21 14:43:06,278 [10] IeStarter DEBUG 准备启动Ie浏览器
+2017-01-21 14:43:06,280 [10] IeStarter DEBUG 准备创建Ie浏览器快照
+2017-01-21 14:43:06,308 [10] IeStarter DEBUG 开始启动Ie浏览器：C:\Program Files (x86)\Internet Explorer\iexplore.exe # -nomerge -private -nohome
+2017-01-21 14:43:06,340 [10] IeStarter DEBUG 查询启动Ie浏览器
+2017-01-21 14:43:06,341 [10] IeStarter DEBUG 获取启动浏览器句柄完成
+2017-01-21 14:43:07,454 [10] Browser INFO  准备访问企业信用首页
+2017-01-21 14:43:07,487 [3] ShDocVwIeWebControl DEBUG 主窗体 # 4854758 # 准备导航至：http://www.gsxt.gov.cn/
+2017-01-21 14:43:07,715 [3] ShDocVwIeWebControl INFO  文件下载完成：活动文档
+2017-01-21 14:43:07,763 [3] ShDocVwIeWebControl DEBUG 主窗体 # 4854758 # 已经导航至：http://www.gsxt.gov.cn/index.html
+2017-01-21 14:43:08,081 [3] ShDocVwIeWebControl DEBUG 主窗体 # 4854758 # 文档载入完成：http://www.gsxt.gov.cn/index.html
+2017-01-21 14:43:08,692 [11] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
+2017-01-21 14:43:10,684 [10] Browser INFO  等待验证框处理完成
+2017-01-21 14:43:14,754 [10] Browser INFO  自动处理验证框，位移： 75px
+2017-01-21 14:43:16,266 [10] Browser INFO  准备开始滑动验证：7 个滑动点
+2017-01-21 14:43:16,331 [10] Browser INFO  滑动点：0, -1, 22.879547482766
+2017-01-21 14:43:16,396 [10] Browser INFO  滑动点：4, 1, 34.8674588393734
+2017-01-21 14:43:16,506 [10] Browser INFO  滑动点：7, 0, 14.6709895714517
+2017-01-21 14:43:16,555 [10] Browser INFO  滑动点：15, 1, 30.9062163629132
+2017-01-21 14:43:16,622 [10] Browser INFO  滑动点：28, -1, 45.9607514161434
+2017-01-21 14:43:16,702 [10] Browser INFO  滑动点：58, -2, 43.8745106914428
+2017-01-21 14:43:16,783 [10] Browser INFO  滑动点：75, 0, 23.3909509393344
+2017-01-21 14:43:17,874 [3] ShDocVwIeWebControl DEBUG 主窗体 # 4854758 # 准备导航至：http://www.gsxt.gov.cn/corp-query-search-1.html
+2017-01-21 14:43:18,105 [3] ShDocVwIeWebControl DEBUG 主窗体 # 4854758 # 已经导航至：http://www.gsxt.gov.cn/corp-query-search-1.html
+2017-01-21 14:43:18,390 [3] ShDocVwIeWebControl DEBUG 主窗体 # 4854758 # 文档载入完成：http://www.gsxt.gov.cn/corp-query-search-1.html
+2017-01-21 14:43:18,539 [10] Browser INFO  验证框已关闭
+2017-01-21 14:43:19,543 [10] Browser INFO  等待跳转至搜索页
+2017-01-21 14:43:21,134 [10] Browser INFO  准备访问企业信用首页
+2017-01-21 14:43:21,142 [3] ShDocVwIeWebControl DEBUG 主窗体 # 4854758 # 准备导航至：http://www.gsxt.gov.cn/
+2017-01-21 14:43:21,446 [3] ShDocVwIeWebControl DEBUG 主窗体 # 4854758 # 已经导航至：http://www.gsxt.gov.cn/index.html
+2017-01-21 14:43:21,638 [3] ShDocVwIeWebControl DEBUG 主窗体 # 4854758 # 文档载入完成：http://www.gsxt.gov.cn/index.html
+2017-01-21 14:44:41,295 [TestRunnerThread] LogHelper INFO  平台版本：4.0.30319.42000
+2017-01-21 14:44:41,306 [TestRunnerThread] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-01-21 14:44:41,310 [TestRunnerThread] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-01-21 14:44:41,311 [TestRunnerThread] LogHelper INFO  管理员身份：True
+2017-01-21 14:44:41,315 [TestRunnerThread] LogHelper INFO  64位操作系统：True
+2017-01-21 14:44:41,315 [TestRunnerThread] LogHelper INFO  64位方式运行：False
+2017-01-21 14:44:41,315 [TestRunnerThread] LogHelper INFO  程序基路径：F:\gov\gov\bin\Debug
+2017-01-21 14:44:41,315 [TestRunnerThread] LogHelper INFO  当前路径：F:\gov\gov\bin\Debug
+2017-01-21 14:44:41,316 [TestRunnerThread] LogHelper INFO  应用路径：
+2017-01-21 14:44:41,316 [TestRunnerThread] LogHelper INFO  标题：
+2017-01-21 14:44:41,317 [TestRunnerThread] LogHelper INFO  版本：
+2017-01-21 14:44:54,674 [16] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
+2017-01-21 14:50:07,279 [9] LogHelper INFO  平台版本：4.0.30319.42000
+2017-01-21 14:50:07,291 [9] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-01-21 14:50:07,292 [9] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-01-21 14:50:07,293 [9] LogHelper INFO  管理员身份：True
+2017-01-21 14:50:07,293 [9] LogHelper INFO  64位操作系统：True
+2017-01-21 14:50:07,293 [9] LogHelper INFO  64位方式运行：True
+2017-01-21 14:50:07,293 [9] LogHelper INFO  程序基路径：F:\gov\gov\bin\Debug\
+2017-01-21 14:50:07,293 [9] LogHelper INFO  当前路径：F:\gov\gov\bin\Debug
+2017-01-21 14:50:07,294 [9] LogHelper INFO  应用路径：F:\gov\gov\bin\Debug\gov.exe
+2017-01-21 14:50:07,295 [9] LogHelper INFO  标题：gov
+2017-01-21 14:50:07,296 [9] LogHelper INFO  版本：1.0.0.0
+2017-01-21 14:50:12,268 [10] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
+2017-01-21 14:54:18,140 [TestRunnerThread] LogHelper INFO  平台版本：4.0.30319.42000
+2017-01-21 14:54:18,150 [TestRunnerThread] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-01-21 14:54:18,155 [TestRunnerThread] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-01-21 14:54:18,155 [TestRunnerThread] LogHelper INFO  管理员身份：True
+2017-01-21 14:54:18,160 [TestRunnerThread] LogHelper INFO  64位操作系统：True
+2017-01-21 14:54:18,160 [TestRunnerThread] LogHelper INFO  64位方式运行：False
+2017-01-21 14:54:18,160 [TestRunnerThread] LogHelper INFO  程序基路径：F:\gov\gov\bin\Debug
+2017-01-21 14:54:18,160 [TestRunnerThread] LogHelper INFO  当前路径：F:\gov\gov\bin\Debug
+2017-01-21 14:54:18,160 [TestRunnerThread] LogHelper INFO  应用路径：
+2017-01-21 14:54:18,161 [TestRunnerThread] LogHelper INFO  标题：
+2017-01-21 14:54:18,161 [TestRunnerThread] LogHelper INFO  版本：
+2017-01-21 14:54:23,057 [10] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
+2017-01-21 15:25:51,066 [10] LogHelper INFO  平台版本：4.0.30319.42000
+2017-01-21 15:25:51,080 [10] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-01-21 15:25:51,081 [10] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-01-21 15:25:51,082 [10] LogHelper INFO  管理员身份：True
+2017-01-21 15:25:51,082 [10] LogHelper INFO  64位操作系统：True
+2017-01-21 15:25:51,082 [10] LogHelper INFO  64位方式运行：True
+2017-01-21 15:25:51,082 [10] LogHelper INFO  程序基路径：F:\gov\gov\bin\Debug\
+2017-01-21 15:25:51,082 [10] LogHelper INFO  当前路径：F:\gov\gov\bin\Debug
+2017-01-21 15:25:51,082 [10] LogHelper INFO  应用路径：F:\gov\gov\bin\Debug\gov.exe
+2017-01-21 15:25:51,084 [10] LogHelper INFO  标题：gov
+2017-01-21 15:25:51,084 [10] LogHelper INFO  版本：1.0.0.0
+2017-01-21 15:25:56,042 [11] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator

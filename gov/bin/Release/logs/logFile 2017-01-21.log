@@ -1,0 +1,84 @@
+2017-01-21 14:40:02,191 [9] LogHelper INFO  平台版本：4.0.30319.42000
+2017-01-21 14:40:02,205 [9] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-01-21 14:40:02,207 [9] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-01-21 14:40:02,208 [9] LogHelper INFO  管理员身份：True
+2017-01-21 14:40:02,208 [9] LogHelper INFO  64位操作系统：True
+2017-01-21 14:40:02,208 [9] LogHelper INFO  64位方式运行：True
+2017-01-21 14:40:02,208 [9] LogHelper INFO  程序基路径：F:\gov\gov\bin\Release\
+2017-01-21 14:40:02,208 [9] LogHelper INFO  当前路径：F:\gov\gov\bin\Release
+2017-01-21 14:40:02,209 [9] LogHelper INFO  应用路径：F:\gov\gov\bin\Release\gov.exe
+2017-01-21 14:40:02,211 [9] LogHelper INFO  标题：gov
+2017-01-21 14:40:02,214 [9] LogHelper INFO  版本：1.0.0.0
+2017-01-21 14:40:07,157 [10] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
+2017-01-21 14:57:27,454 [10] LogHelper INFO  平台版本：4.0.30319.42000
+2017-01-21 14:57:27,466 [10] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-01-21 14:57:27,468 [10] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-01-21 14:57:27,468 [10] LogHelper INFO  管理员身份：True
+2017-01-21 14:57:27,468 [10] LogHelper INFO  64位操作系统：True
+2017-01-21 14:57:27,468 [10] LogHelper INFO  64位方式运行：True
+2017-01-21 14:57:27,468 [10] LogHelper INFO  程序基路径：F:\gov\gov\bin\Release\
+2017-01-21 14:57:27,468 [10] LogHelper INFO  当前路径：F:\gov\gov\bin\Release
+2017-01-21 14:57:27,469 [10] LogHelper INFO  应用路径：F:\gov\gov\bin\Release\gov.exe
+2017-01-21 14:57:27,470 [10] LogHelper INFO  标题：gov
+2017-01-21 14:57:27,471 [10] LogHelper INFO  版本：1.0.0.0
+2017-01-21 14:57:32,435 [11] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
+2017-01-21 15:25:06,878 [9] LogHelper INFO  平台版本：4.0.30319.42000
+2017-01-21 15:25:06,892 [9] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-01-21 15:25:06,893 [9] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-01-21 15:25:06,893 [9] LogHelper INFO  管理员身份：True
+2017-01-21 15:25:06,893 [9] LogHelper INFO  64位操作系统：True
+2017-01-21 15:25:06,894 [9] LogHelper INFO  64位方式运行：True
+2017-01-21 15:25:06,894 [9] LogHelper INFO  程序基路径：F:\gov\gov\bin\Release\
+2017-01-21 15:25:06,894 [9] LogHelper INFO  当前路径：F:\gov\gov\bin\Release
+2017-01-21 15:25:06,894 [9] LogHelper INFO  应用路径：F:\gov\gov\bin\Release\gov.exe
+2017-01-21 15:25:06,896 [9] LogHelper INFO  标题：gov
+2017-01-21 15:25:06,896 [9] LogHelper INFO  版本：1.0.0.0
+2017-01-21 15:25:11,846 [10] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
+2017-01-21 15:32:48,033 [10] LogHelper INFO  平台版本：4.0.30319.42000
+2017-01-21 15:32:48,046 [10] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-01-21 15:32:48,047 [10] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-01-21 15:32:48,047 [10] LogHelper INFO  管理员身份：True
+2017-01-21 15:32:48,048 [10] LogHelper INFO  64位操作系统：True
+2017-01-21 15:32:48,048 [10] LogHelper INFO  64位方式运行：True
+2017-01-21 15:32:48,048 [10] LogHelper INFO  程序基路径：F:\gov\gov\bin\Release\
+2017-01-21 15:32:48,048 [10] LogHelper INFO  当前路径：F:\gov\gov\bin\Release
+2017-01-21 15:32:48,048 [10] LogHelper INFO  应用路径：F:\gov\gov\bin\Release\gov.exe
+2017-01-21 15:32:48,050 [10] LogHelper INFO  标题：gov
+2017-01-21 15:32:48,050 [10] LogHelper INFO  版本：1.0.0.0
+2017-01-21 15:32:53,012 [11] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
+2017-01-21 15:33:51,122 [TestRunnerThread] LogHelper INFO  平台版本：4.0.30319.42000
+2017-01-21 15:33:51,132 [TestRunnerThread] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-01-21 15:33:51,136 [TestRunnerThread] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-01-21 15:33:51,136 [TestRunnerThread] LogHelper INFO  管理员身份：True
+2017-01-21 15:33:51,141 [TestRunnerThread] LogHelper INFO  64位操作系统：True
+2017-01-21 15:33:51,142 [TestRunnerThread] LogHelper INFO  64位方式运行：False
+2017-01-21 15:33:51,142 [TestRunnerThread] LogHelper INFO  程序基路径：F:\gov\gov\bin\Release
+2017-01-21 15:33:51,142 [TestRunnerThread] LogHelper INFO  当前路径：F:\gov\gov\bin\Release
+2017-01-21 15:33:51,142 [TestRunnerThread] LogHelper INFO  应用路径：
+2017-01-21 15:33:51,143 [TestRunnerThread] LogHelper INFO  标题：
+2017-01-21 15:33:51,143 [TestRunnerThread] LogHelper INFO  版本：
+2017-01-21 15:33:56,056 [9] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
+2017-01-21 15:34:58,503 [10] LogHelper INFO  平台版本：4.0.30319.42000
+2017-01-21 15:34:58,516 [10] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-01-21 15:34:58,517 [10] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-01-21 15:34:58,518 [10] LogHelper INFO  管理员身份：True
+2017-01-21 15:34:58,518 [10] LogHelper INFO  64位操作系统：True
+2017-01-21 15:34:58,518 [10] LogHelper INFO  64位方式运行：True
+2017-01-21 15:34:58,518 [10] LogHelper INFO  程序基路径：F:\gov\gov\bin\Release\
+2017-01-21 15:34:58,518 [10] LogHelper INFO  当前路径：F:\gov\gov\bin\Release
+2017-01-21 15:34:58,518 [10] LogHelper INFO  应用路径：F:\gov\gov\bin\Release\gov.exe
+2017-01-21 15:34:58,520 [10] LogHelper INFO  标题：gov
+2017-01-21 15:34:58,520 [10] LogHelper INFO  版本：1.0.0.0
+2017-01-21 15:35:03,474 [11] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
+2017-01-21 15:38:00,873 [9] LogHelper INFO  平台版本：4.0.30319.42000
+2017-01-21 15:38:00,891 [9] LogHelper INFO  操作系统：Microsoft Windows NT 6.1.7601 Service Pack 1
+2017-01-21 15:38:00,893 [9] LogHelper INFO  浏览器版本：11.0.9600.16428
+2017-01-21 15:38:00,893 [9] LogHelper INFO  管理员身份：True
+2017-01-21 15:38:00,896 [9] LogHelper INFO  64位操作系统：True
+2017-01-21 15:38:00,897 [9] LogHelper INFO  64位方式运行：True
+2017-01-21 15:38:00,897 [9] LogHelper INFO  程序基路径：F:\gov\gov\bin\Release\
+2017-01-21 15:38:00,897 [9] LogHelper INFO  当前路径：F:\gov\gov\bin\Release
+2017-01-21 15:38:00,898 [9] LogHelper INFO  应用路径：F:\gov\gov\bin\Release\gov.exe
+2017-01-21 15:38:00,899 [9] LogHelper INFO  标题：gov
+2017-01-21 15:38:00,900 [9] LogHelper INFO  版本：1.0.0.0
+2017-01-21 15:38:05,835 [10] TerminalSessionDefender INFO  当前状态：1 # Console # Administrator
